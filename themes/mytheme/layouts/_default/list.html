@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="container">
+  {{ partial "jump-to-button" . }}
+  <div class="row">
+    {{ partial "groupdocs-total" . }}
+    {{ partial "groupdocs-viewer" . }}
+    {{ partial "groupdocs-conversion" . }}
+    {{ partial "groupdocs-editor" . }}
+    {{ partial "groupdocs-merger" . }}
+  </div>
+</div>
+{{ end }}
