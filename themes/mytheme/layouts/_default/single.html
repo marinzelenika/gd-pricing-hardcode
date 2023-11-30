@@ -1,10 +1,17 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+<div class="container">
+  <div class="text-center" style="margin-top: 8em;">
+    <h3 class="mb-0"><strong>{{ .Params.Name }}</strong></h3>
+    <a href="{{ .Params.ProductPageUrl }}" class="product-page-link">{{ i18n "visit-product-page" . }}</a>
+  </div>
 
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  {{ partial "nav-items" . }}
 
-  {{ .Content }}
-  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  <div class="tab-content">
+    {{ partial "yearly-tab" . }}
+    {{ partial "pay-per-use-tab" . }}
+    {{ partial "sdk-tab" . }}
+  </div>
+  {{ partial "green-btn" . }}
+</div>
 {{ end }}

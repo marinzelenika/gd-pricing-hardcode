@@ -1,9 +1,32 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example.org/pricing'
 languageCode = 'en-us'
-title = 'Aspose pricing information'
+title = 'GroupDocs pricing information'
 theme = 'mytheme'
 
 [module]
     [[module.mounts]]
       source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
       target = "assets/js/bootstrap.bundle.min.js"
+
+[params.dynamicmenuid]
+  en = "groupdocs-en"
+  de = "groupdocs-de"
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.de]
+    languageName = 'Deutsch'
+    languageCode = "de"
+    title = "Preisinformationen | groupdocs.com"
+    weight = 4
+    [languages.de.params]
+      flag = "flag-de"
+    
+  [languages.en]
+    languageName = 'English'
+    languageCode = "en"
+    title = "Pricing information | groupdocs.com"
+    weight = 3
+    [languages.en.params]
+      flag = "flag-us"

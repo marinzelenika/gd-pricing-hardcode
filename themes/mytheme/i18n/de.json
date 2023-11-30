@@ -1,0 +1,220 @@
+[
+  {
+    "desc-GroupDocs.Total Product Family": {
+      "other": "Manipulieren Sie Dokumente in Ihren eigenen Desktop-L�sungen und Web-Apps, ohne andere kommerzielle Produkte zu ben�tigen."
+    },
+    "desc-GroupDocs.Viewer Product Family": {
+      "other": "Flexible Dokumentenanzeigel�sung f�r Programmierer und Fachleute zur Darstellung und Anzeige weit verbreiteter Dateiformate �berall."
+    },
+    "desc-GroupDocs.Conversion Product Family": {
+      "other": "Konvertieren Sie g�ngige Dokument- und Bilddateiformate auf jeder Plattform mit App- und API-basierten L�sungen."
+    },
+    "desc-GroupDocs.Editor Product Family": {
+      "other": "Dokumenten-Editor zum Bearbeiten von Microsoft Office, OpenOffice, PDF, HTML und anderen Dokumenten-Dateiformaten."
+    },
+    "desc-Groupdocs.Merger Product Family": {
+      "other": "M�heloses Zusammenf�hren mehrerer Dokumente oder Aufteilen von Microsoft Office, OpenOffice, PDF und anderen Dokumenten in Seiten."
+    },
+    "desc-GroupDocs.Comparison Product Family": {
+      "other": "Vergleichen Sie Dokumentinhalte und -stile �ber beliebte Plattformen hinweg mit unseren On-Premise- und Cloud-APIs sowie App-basierten L�sungen."
+    },
+    "desc-GroupDocs.Annotation Product Family": {
+      "other": "Kommentieren Sie Dokumente mit unseren Apps oder erstellen Sie Ihre eigenen benutzerdefinierten Anwendungen f�r Annotationen �ber beliebte Plattformen hinweg mithilfe von On-Premise- oder Cloud-APIs."
+    },
+    "desc-GroupDocs.Assembly Product Family": {
+      "other": "Automatisches Generieren von Berichten in verschiedenen Formaten aus benutzerdefinierten Vorlagen und verschiedenen Datenquellen mit unseren plattform�bergreifenden Apps und APIs."
+    },
+    "desc-GroupDocs.Parser Product Family": {
+      "other": "Extrahieren Sie Text, Bilder, Metadaten und Codierungserkennung f�r Microsoft Office, OpenOffice, PDF, HTML und andere Dateiformate Ihrer Wahl."
+    },
+    "desc-GroupDocs.Signature Product Family": {
+      "other": "Unterzeichnen Sie digitale Dokumente und Bilder auf jeder Plattform mit unseren flexiblen APIs und App-basierten L�sungen f�r Programmierer und Endbenutzer."
+    },
+    "desc-GroupDocs.Metadata Product Family": {
+      "other": "APIs und Apps zum Lesen, Bearbeiten, Ersetzen und Entfernen von Metadaten von Dokumenten, Bildern und anderen Dateiformaten auf beliebten Plattformen."
+    },
+    "desc-GroupDocs.Search Product Family": {
+      "other": "F�hren Sie eine Textsuche und Indizierung in Microsoft Office, OpenOffice, PDF und vielen anderen Dokumenten-Dateiformaten durch."
+    },
+    "desc-GroupDocs.Watermark Product Family": {
+      "other": "Schnelles Anwenden und Bearbeiten von text- und bildbasierten Wasserzeichen auf Ihren Dokumenten und Bildern mit intelligenter Suche."
+    },
+    "desc-Groupdocs.Redaction Product Family": {
+      "other": "Verbergen oder Entfernen Sie private Informationen aus Microsoft Office-Dokumenten, Tabellenkalkulationen, Pr�sentationen, PDFs und Bildern."
+    },
+    "desc-GroupDocs.Classification Product Family": {
+      "other": "Klassifizieren Sie Dokumente und Texte in genaue Kategorien mithilfe von IAB (Version 2) und Dokumenten-Taxonomien innerhalb beliebiger .NET-Anwendungen."
+    },
+    "note-Developer Small Business": {
+      "other": "1 Entwickler und 1 Bereitstellungsort"
+    },
+    "note-Developer OEM": {
+      "other": "1 Entwickler und unbegrenzte Bereitstellungsorte"
+    },
+    "note-Site Small Business": {
+      "other": "Bis zu 10 Entwickler und bis zu 10 Bereitstellungsorte"
+    },
+    "note-Site OEM": {
+      "other": "Bis zu 10 Entwickler und unbegrenzte Bereitstellungsorte"
+    },
+    "note-Metered Small Business": {
+      "other": "Unbegrenzte Entwickler und Bezahlung nach Verbrauch"
+    },
+    "note-Metered OEM": {
+      "other": "Unbegrenzte Entwickler und Bezahlung nach Verbrauch"
+    },
+    "only-supported": {
+      "other": "Dieses Produkt wird derzeit nur f�r die .NET-Plattform unterst�tzt, daher ist kein Family Pack verf�gbar."
+    },
+    "from": {
+      "other": "von"
+    },
+    "per": {
+      "other": "pro Plattform, pro Jahr"
+    },
+    "choose-platform": {
+      "other": "W�hlen Sie eine Plattform"
+    },
+    "or": {
+      "other": "oder"
+    },
+    "getall": {
+      "other": "Erhalten Sie alle Plattformen in einem Family Pack ab"
+    },
+    "select": {
+      "other": "W�hlen Sie Family Pack"
+    },
+    "family": {
+      "other": "Familie"
+    },
+    "pricing-info": {
+      "other": "Preisinformationen"
+    },
+    "pricing": {
+      "other": "Preisgestaltung"
+    },
+    "visit-product-page": {
+      "other": "Besuchen Sie die Produktseite"
+    },
+    "home-description": {
+      "other": "Verbessern Sie Ihre Web-, Mobil- oder Desktop-Apps durch die M�glichkeit, Dokumente anzuzeigen, zu kommentieren, zu konvertieren, zu signieren, zu vergleichen und zusammenzustellen."
+    },
+    "estimate": {
+      "other": "Sie k�nnen die monatlichen Kosten mit unserem"
+    },
+    "simulator": {
+      "other": "Simulator"
+    },
+    "with-free-support": {
+      "other": "mit kostenlosem Support"
+    },
+    "with-paid-support": {
+      "other": "mit kostenpflichtigem Support"
+    },
+    "select-only": {
+      "other": "Ausw�hlen"
+    },
+    "per-developer-per-month": {
+      "other": "pro Entwickler, pro Monat"
+    },
+    "with-paid-consulting": {
+      "other": "mit bezahlter Beratung"
+    },
+    "month": {
+      "other": "Monat"
+    },
+    "year": {
+      "other": "Jahr"
+    },
+    "developers-licensed": {
+      "other": "Lizenzierte Entwickler"
+    },
+    "derived-work": {
+      "other": "Verwendetes abgeleitetes Werk an Standorten"
+    },
+    "enterprise-deployment": {
+      "other": "Unternehmensbereitstellung"
+    },
+    "unlimited-servers": {
+      "other": "Unbegrenzte Serverbereitstellung"
+    },
+    "use-with-web-sites": {
+      "other": "Zur Verwendung mit Websites/Anwendungen"
+    },
+    "external-distribution": {
+      "other": "Erlaubt externe Verteilung"
+    },
+    "royalty-free": {
+      "other": "Lizenzgeb�hrenfrei"
+    },
+    "use-in-a": {
+      "other": "Verwendung in einer Entwicklungslibrary, API oder SDK"
+    },
+    "license-type": {
+      "other": "Lizenztyp"
+    },
+    "perpetual": {
+      "other": "Perpetuell"
+    },
+    "updates-and-hotfixes": {
+      "other": "Updates und Hotfixes f�r ein Jahr"
+    },
+    "can-be-used": {
+      "other": "Kann zur Erstellung unbegrenzter Anwendungen verwendet werden"
+    },
+    "discount-applied": {
+      "other": "Rabatt f�r mehrere K�ufe angewendet"
+    },
+    "technical-support": {
+      "other": "Kostenloser technischer Support"
+    },
+    "note": {
+      "other": "Hinweis: Alle Preise sind in"
+    },
+    "help-me-choose": {
+      "other": "Helfen Sie mir bei der Auswahl des richtigen Lizenztyps"
+    },
+    "pay-per-use": {
+      "other": "Bezahlung pro Nutzung"
+    },
+    "yearly": {
+      "other": "J�hrlich"
+    },
+    "expl1": {
+      "other": "Entwickler: Ein Entwickler kann ein Softwareentwickler, ein Systemadministrator, ein Berichtersteller oder eine andere Person sein, die das Produkt verwendet. Jeder Entwickler, der mit Aspose-Produkten arbeitet, muss lizenziert sein."
+    },
+    "expl2": {
+      "other": "Standort: Ein Standort ist der physische Ort, an dem ein abgeleitetes Werk verwendet wird. Jede einzelne Adresse oder jedes B�rogeb�ude innerhalb oder au�erhalb einer Organisation. Abgeleitetes Werk: Ein Softwareprogramm, eine Website, ein Berichtsersteller oder eine andere L�sung, Arbeit oder ein Produkt, das Aspose-Produkte enth�lt oder verwendet."
+    },
+    "expl3": {
+      "other": "Erm�glicht die Verteilung abgeleiteter Werke an eine unbegrenzte Anzahl von physischen oder virtuellen Servern an unbegrenzten physischen Standorten (unterschiedliche Adresse oder B�rogeb�ude). Abgeleitetes Werk: Ein Softwareprogramm, eine Website, ein Berichtsersteller oder eine andere L�sung, Arbeit oder ein Produkt, das Aspose-Produkte enth�lt oder verwendet."
+    },
+    "expl4": {
+      "other": "Erm�glicht die Verwendung des Produkts innerhalb einer App-Bereitstellung innerhalb eines Unternehmens (Unternehmen)."
+    },
+    "expl5": {
+      "other": "Erm�glicht die Verteilung abgeleiteter Werke an �ffentlich zug�ngliche Websites/Anwendungen, Extranets, mehrseitige Intranets oder SaaS-Projektnutzungsszenarien."
+    },
+    "expl6": {
+      "other": "Erm�glicht die Verteilung abgeleiteter Werke an Dritte (z. B. eingebettet in Software, die an andere verkauft wird)."
+    },
+    "expl7": {
+      "other": "Verwenden Sie die Lizenz, ohne f�r jede Verwendung, f�r jede Kopie oder f�r den Verkauf von Volumen Lizenzgeb�hren oder Lizenzgeb�hren zu zahlen."
+    },
+    "expl8": {
+      "other": "Wenn Sie Software mit einer API entwickeln, die von anderen Entwicklern verwendet wird, gilt dies auch f�r Sie."
+    },
+    "expl9": {
+      "other": "Perpetual: Die Lizenz zur Verwendung des Produkts l�uft nicht ab. Pay-per-use: Zahlen Sie monatlich Lizenzgeb�hren f�r die Nutzung des Produkts."
+    },
+    "expl10": {
+      "other": "Updates und Hotfixes f�r ein Jahr"
+    },
+    "expl11": {
+      "other": "Kostenloser technischer Support f�r ein Jahr"
+    },
+    "expl12": {
+      "other": "Rabatt: Ein Rabatt wird angewendet, wenn Sie mehrere Produkte oder Lizenzen gleichzeitig kaufen."
+    }
+  }
+]
