@@ -11,6 +11,7 @@ theme = 'mytheme'
 [params.dynamicmenuid]
   en = "groupdocs-en"
   de = "groupdocs-de"
+  es = "groupdocs-es"
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
@@ -30,3 +31,11 @@ defaultContentLanguageInSubdir = true
     weight = 3
     [languages.en.params]
       flag = "flag-us"
+
+  [languages.es]
+    languageName = 'Español'
+    languageCode = "es"
+    title = "Información de precio | groupdocs.com"
+    weight = 5
+    [languages.es.params]
+      flag = "flag-es"

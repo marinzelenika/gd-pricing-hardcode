@@ -14,7 +14,7 @@
             >
           </p>
 
-          <h3 class="display-5" style="margin-bottom: 3px">$2999</h3>
+          <h3 class="display-5" style="margin-bottom: 3px">${{ .Params.DeveloperSmallBusinessPrice }}</h3>
 
           <p style="font-size: small">
             <a href="https://forum.groupdocs.com">with Free support</a>
@@ -48,7 +48,7 @@
             </div>
           </div>
           <p style="font-size: 0.7em; color: grey" class="license-note">
-            from $399/year.
+            from ${{ .Params.DeveloperSmallBusiness_SupportLowestPrice }}/year.
             <a href="https://helpdesk.groupdocs.com" target="_blank"
               >Learn more</a
             >
@@ -81,13 +81,13 @@
             </div>
           </div>
           <p style="font-size: 0.65em; color: grey" class="license-note">
-            +$5999 per developer, per month.
+            +${{ .Params.PaidConsultingPrice }} per developer, per month.
             <a href="https://consulting.groupdocs.com" target="_blank"
               >Learn more</a
             >
           </p>
           <hr />
-          Total price: $<span id="totalPrice_96325">2999.00</span>
+          Total price: $<span id="totalPrice_96325">{{ .Params.DeveloperSmallBusinessPrice }}</span>
 
           <a
             class="btn btn-primary btn-lg fam-pack-btn1 d-flex justify-content-center align-items-center mt-4"
@@ -114,7 +114,7 @@
             >
           </p>
 
-          <h3 class="display-5" style="margin-bottom: 3px">$8997</h3>
+          <h3 class="display-5" style="margin-bottom: 3px">${{ .Params.DeveloperOEMPrice }}</h3>
 
           <p style="font-size: small">
             <a href="https://forum.groupdocs.com">with Free support</a>
@@ -148,7 +148,7 @@
             </div>
           </div>
           <p style="font-size: 0.7em; color: grey" class="license-note">
-            from $1797/year.
+            from ${{ .Params.DeveloperOEM_SupportLowestPrice }}/year.
             <a href="https://helpdesk.groupdocs.com" target="_blank"
               >Learn more</a
             >
@@ -187,7 +187,7 @@
             >
           </p>
           <hr />
-          Total price: $<span id="totalPrice_96327">8997.00</span>
+          Total price: $<span id="totalPrice_96327">{{ .Params.DeveloperOEMPrice }}</span>
 
           <a
             class="btn btn-primary btn-lg fam-pack-btn1 d-flex justify-content-center align-items-center mt-4"
@@ -214,7 +214,7 @@
             >
           </p>
 
-          <h3 class="display-5" style="margin-bottom: 3px">$14995</h3>
+          <h3 class="display-5" style="margin-bottom: 3px">${{ .Params.SiteSmallBusinessPrice }}</h3>
 
           <p style="font-size: small">
             <a href="https://forum.groupdocs.com">with Free support</a>
@@ -248,7 +248,7 @@
             </div>
           </div>
           <p style="font-size: 0.7em; color: grey" class="license-note">
-            from $3995/year.
+            from ${{ .Params.SiteSmallBusiness_SupportLowestPrice }}/year.
             <a href="https://helpdesk.groupdocs.com" target="_blank"
               >Learn more</a
             >
@@ -287,7 +287,7 @@
             >
           </p>
           <hr />
-          Total price: $<span id="totalPrice_96329">14995.00</span>
+          Total price: $<span id="totalPrice_96329">{{ .Params.SiteSmallBusinessPrice }}</span>
 
           <a
             class="btn btn-primary btn-lg fam-pack-btn1 d-flex justify-content-center align-items-center mt-4"
@@ -314,7 +314,7 @@
             >
           </p>
 
-          <h3 class="display-5" style="margin-bottom: 3px">$41986</h3>
+          <h3 class="display-5" style="margin-bottom: 3px">${{ .Params.SiteOEMPrice }}</h3>
 
           <p style="font-size: small">
             <a href="https://forum.groupdocs.com">with Free support</a>
@@ -348,7 +348,7 @@
             </div>
           </div>
           <p style="font-size: 0.7em; color: grey" class="license-note">
-            from $11985/year.
+            from ${{ .Params.SiteOEM_SupportLowestPrice }}/year.
             <a href="https://helpdesk.groupdocs.com" target="_blank"
               >Learn more</a
             >
@@ -387,7 +387,7 @@
             >
           </p>
           <hr />
-          Total price: $<span id="totalPrice_96331">41986.00</span>
+          Total price: $<span id="totalPrice_96331">{{ .Params.SiteOEMPrice }}</span>
 
           <a
             class="btn btn-primary btn-lg fam-pack-btn1 d-flex justify-content-center align-items-center mt-4"
