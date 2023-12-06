@@ -66,6 +66,12 @@
     "only-supported": {
       "other": "Dieses Produkt wird derzeit nur f�r die .NET-Plattform unterst�tzt, daher ist kein Family Pack verf�gbar."
     },
+    "note-Developer SDK":{
+      "other": "1 Entwickler und 50 kommerzielle Bereitstellungen"
+    },
+    "note-Site SDK":{
+      "other": "Bis zu 10 Entwickler und 250 kommerzielle Bereitstellungen"
+    },
     "from": {
       "other": "von"
     },
@@ -215,6 +221,27 @@
     },
     "expl12": {
       "other": "Rabatt: Ein Rabatt wird angewendet, wenn Sie mehrere Produkte oder Lizenzen gleichzeitig kaufen."
+    },
+    "learn-more": {
+      "other": "Erfahren Sie mehr"
+    },
+    "paid-support-note": {
+      "other": "Das kostenpflichtige Support-Abonnement wird als separates Produkt erworben und ist nicht Teil der Produktlizenz."
+    },
+    "paid-support": {
+      "other": "Bezahlten Support hinzufügen"
+    },
+    "paid-consulting": {
+      "other": "Bezahlte Beratung hinzufügen."
+    },
+    "paid-consulting-note": {
+      "other": "Die kostenpflichtige Beratung von GroupDocs ist eine effiziente und sichere Möglichkeit, Ihr Softwareprojekt auszulagern und Ihr Unternehmen auf die nächste Stufe zu bringen."
+    },
+    "total-price": {
+      "other": "Gesamtpreis"
+    },
+    "note-all-prices":{
+      "other": "Hinweis: Alle Preise sind in"
     }
   }
 ]

@@ -63,6 +63,12 @@
     "note-Metered OEM": {
       "other": "Unlimited Developers And Pay As You Use"
     },
+    "note-Developer SDK":{
+      "other": "1 Developer And 50 Commercial Deployments"
+    },
+    "note-Site SDK":{
+      "other": "Up To 10 Developers And 250 Commercial Deployments"
+    },
     "only-supported": {
       "other": "This product is currently only supported for the .NET platform and therefore no family pack is available."
     },
@@ -288,14 +294,14 @@
     "processed-credits": {
       "other": "Total processed credits"
     },
-    "total-price": {
-      "other": "Total price"
-    },
     "metered": {
       "other": "Metered"
     },
     "get-temp-lic": {
       "other": "Get a temporary license"
+    },
+    "note-all-prices":{
+      "other": "Note: all prices are in"
     }
   }
 ]
