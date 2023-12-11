@@ -242,6 +242,15 @@
     },
     "note-all-prices":{
       "other": "Hinweis: Alle Preise sind in"
+    },
+    "developer":{
+      "other": "Entwickler"
+    },
+    "site":{
+      "other": "Standortlizenz"
+    },
+    "metered": {
+      "other": "Verbrauchsabhängig"
     }
   }
 ]

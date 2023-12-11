@@ -264,6 +264,9 @@
     "expl15": {
       "other": "This does not apply to Metered licenses which are always up to date."
     },
+    "expl16": {
+      "other": "Commercial Deployments: Any distribution of End User Software by You to third-party end users, either directly or through distribution channels. Each customer, either an individual or a single entity, of Your End User Software counts as one (1) Commercial Deployment."
+    },
     "total-credits": {
       "other": "Total Credits"
     },
@@ -302,6 +305,15 @@
     },
     "note-all-prices":{
       "other": "Note: all prices are in"
+    },
+    "developer":{
+      "other": "Developer"
+    },
+    "site":{
+      "other": "Site"
+    },
+    "commercial-deployments":{
+      "other": "Commercial Deployments"
     }
   }
 ]
