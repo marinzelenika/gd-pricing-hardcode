@@ -243,6 +243,60 @@
     },
     "get-temp-lic": {
       "other": "一時ライセンスを取得する"
-    }
+    },
+    "note-all-prices":{
+      "other": "注: すべての価格は"
+    },
+  "developer":{
+    "other": "「開発者」"
+  },
+  "site":{
+    "other": "サイト"
+  },
+  "commercial-deployments":{
+    "other": "商用展開"
+  },
+  "note-Developer Small Business": {
+    "other": "1 人の開発者と 1 つの展開場所"
+  },
+  "note-Developer OEM": {
+    "other": "1 人の開発者と無制限の展開場所"
+  },
+  "note-Site Small Business": {
+    "other": "最大 10 人の開発者と最大 10 つの展開場所"
+  },
+  "note-Site OEM": {
+    "other": "最大 10 人の開発者と無制限の展開場所"
+  },
+  "note-Metered Small Business": {
+    "other": "無制限の開発者と従量課金制"
+  },
+  "note-Metered OEM": {
+    "other": "無制限の開発者と従量課金制"
+  },
+  "note-Developer SDK":{
+    "other": "1 人の開発者と 50 の商用展開"
+  },
+  "note-Site SDK":{
+    "other": "最大 10 人の開発者と 250 の商用展開"
+  },
+  "paid-support": {
+    "other": "有料サポートを追加"
+  },
+  "paid-consulting": {
+    "other": "有料コンサルティングを追加"
+  },
+  "learn-more": {
+    "other": "もっと詳しく知る"
+  },
+  "knowledgebase": {
+    "other": "知識ベース"
+  },
+  "read-more": {
+    "other": "続きを読む..."
+  },
+  "expl16": {
+    "other": "商用展開: お客様によるエンド ユーザー ソフトウェアのサードパーティ エンド ユーザーへの直接または配布チャネル経由の配布。 お客様のエンド ユーザー ソフトウェアの各顧客 (個人または単一の法人) は、1 つの商用展開としてカウントされます。"
+  }
   }
 ]

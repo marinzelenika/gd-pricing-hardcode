@@ -242,6 +242,51 @@
     },
     "get-temp-lic": {
       "other": "获取临时许可证"
+    },
+    "learn-more": {
+      "other": "了解更多"
+    },
+    "expl16": {
+      "other": "商业部署：您直接或通过分销渠道向第三方最终用户分发最终用户软件。您的最终用户软件的每个客户（无论是个人还是单个实体）都算作一个（ 1）商业部署。"
+    },
+    "note-all-prices":{
+      "other": "注：所有价格均以"
+    },
+    "developer":{
+      "other": "开发商"
+    },
+    "site":{
+      "other": "地点"
+    },
+    "paid-support": {
+      "other": "添加付费支持"
+    },
+    "paid-consulting": {
+      "other": "添加付费咨询"
+    },
+    "note-Developer Small Business": {
+      "other": "1 个开发人员和 1 个部署位置"
+    },
+    "note-Developer OEM": {
+      "other": "1 个开发者和无限的部署位置"
+    },
+    "note-Site Small Business": {
+      "other": "最多 10 个开发人员和最多 10 个部署位置"
+    },
+    "note-Site OEM": {
+      "other": "最多 10 个开发人员和无限的部署位置"
+    },
+    "note-Metered Small Business": {
+      "other": "无限开发者并按需付费"
+    },
+    "note-Metered OEM": {
+      "other": "无限开发者并按需付费"
+    },
+    "note-Developer SDK":{
+      "other": "1 个开发人员和 50 个商业部署"
+    },
+    "note-Site SDK":{
+      "other": "最多 10 个开发人员和 250 个商业部署"
     }
   }
 ]

@@ -204,6 +204,9 @@
     "expl15": {
       "other": "Esto no se aplica a las licencias medibles que siempre están actualizadas."
     },
+    "expl16": {
+      "other": "Implementaciones comerciales: cualquier distribución de software de usuario final por su parte a usuarios finales de terceros, ya sea directamente o a través de canales de distribución. Cada cliente, ya sea un individuo o una sola entidad, de su software de usuario final cuenta como una (1) implementación comercial. ."
+    },
     "total-credits": {
       "other": "Créditos totales"
     },
@@ -234,14 +237,65 @@
     "processed-credits": {
       "other": "Créditos procesados totales"
     },
+    "note-all-prices":{
+      "other": "Nota: todos los precios están en"
+    },
     "total-price": {
       "other": "Precio total"
     },
     "metered": {
       "other": "Medido"
     },
+    "developer":{
+      "other": "Desarrollador"
+    },
+    "site":{
+      "other": "Sitio"
+    },
     "get-temp-lic": {
       "other": "Obtener una licencia temporal"
+    },
+    "commercial-deployments":{
+      "other": "Despliegues Comerciales"
+    },
+    "note-Developer Small Business": {
+      "other": "1 desarrollador y 1 ubicación de implementación"
+    },
+    "note-Developer OEM": {
+      "other": "1 desarrollador y ubicaciones de implementación ilimitadas"
+    },
+    "note-Developer SDK":{
+      "other": "1 desarrollador y 50 implementaciones comerciales"
+    },
+    "note-Site SDK":{
+      "other": "Hasta 10 desarrolladores y 250 implementaciones comerciales"
+    },
+    "note-Site Small Business": {
+      "other": "Hasta 10 desarrolladores y hasta 10 ubicaciones de implementación"
+    },
+    "note-Site OEM": {
+      "other": "Hasta 10 desarrolladores y ubicaciones de implementación ilimitadas"
+    },
+    "note-Metered Small Business": {
+      "other": "Desarrolladores ilimitados y pago por uso"
+    },
+    "note-Metered OEM": {
+      "other": "Desarrolladores ilimitados y pago por uso"
+    },
+    "learn-more": {
+      "other": "Aprende más"
+    },
+    "paid-support-note": {
+      "other": "La suscripción de soporte paga se compra como un producto independiente y no forma parte de la licencia del producto."
+    },
+    "paid-support": {
+      "other": "Agregar soporte pago"
+    },
+    "paid-consulting": {
+      "other": "Agregar asesoramiento pago."
+    },
+    "paid-consulting-note": {
+      "other": "La consultoría paga de GroupDocs es una forma eficiente y segura de subcontratar su proyecto de software y llevar su negocio al siguiente nivel."
     }
   }
 ]
