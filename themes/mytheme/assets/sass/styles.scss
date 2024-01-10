@@ -763,3 +763,14 @@ z-index: 1 !important;
     z-index: 1 !important;
 }
 /*************** Pricing Comparison Table CSS ***************/
+@media (max-width: 460px) {
+    .help-tip p {
+        position: absolute !important; // position absolute relative to the nearest positioned ancestor
+        z-index: 999 !important;
+        width: auto; // allow the width to adjust based on content
+        height: auto; // let the height adjust automatically
+        overflow: auto !important;
+        box-sizing: border-box; // include padding and border in element's total width
+        left: 0; // align to the left side of the parent
+    }
+}
