@@ -34,5 +34,17 @@
     "MeteredSmallBusiness_SupportLowestPrice": 1797.0,
     "MeteredOEMPrice": 1999.0,
     "MeteredOEM_PricingID": 100399,
-    "MeteredOEM_SupportLowestPrice": 11985.0
+    "MeteredOEM_SupportLowestPrice": 11985.0,
+    "DeveloperSDKPrice": 33580.0,
+    "DeveloperSDK_1YPricingID": 108877,
+    "DeveloperSDK_2YPricingID": 108878,
+    "DeveloperSDK_3YPricingID": 108879,
+    "DeveloperSDK_4YPricingID": 108880,
+    "DeveloperSDK_SupportLowestPrice": 11980.0,
+    "SiteSDKPrice": 83950.0,
+    "SiteSDK_1YPricingID": 109101,
+    "SiteSDK_2YPricingID": 109102,
+    "SiteSDK_3YPricingID": 109103,
+    "SiteSDK_4YPricingID": 109104,
+    "SiteSDK_SupportLowestPrice": 39950.0
 }

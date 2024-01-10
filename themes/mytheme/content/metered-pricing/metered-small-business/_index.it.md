@@ -17,7 +17,7 @@ Description: "Una licenza per piccole imprese con tariffazione variabile consent
 Elabora quanti file desideri. Dopo un mese, calcoleremo i crediti totali e ti invieremo la fattura secondo il piano di seguito. Un credito viene conteggiato ogni volta che esegui un'operazione di apertura o salvataggio su un documento.  
 &nbsp;  
 
-Ulteriori informazioni sulla nostra licenza per piccole imprese con tariffazione variabile possono essere trovate [qui](https://purchase.aspose.com/policies/license-types/#MeteredSmallBusiness). Leggi le [domande frequenti sulla licenza con tariffazione variabile](https://purchase.aspose.com/faqs/licensing/metered/) per risposte alle tue domande e scenari.  
+Ulteriori informazioni sulla nostra licenza per piccole imprese con tariffazione variabile possono essere trovate [qui](https://purchase.groupdocs.com/policies/license-types/#MeteredSmallBusiness). Leggi le [domande frequenti sulla licenza con tariffazione variabile](https://purchase.groupdocs.com/faqs/licensing/metered/) per risposte alle tue domande e scenari.  
 
 {{< row-end >}}
 &nbsp;  

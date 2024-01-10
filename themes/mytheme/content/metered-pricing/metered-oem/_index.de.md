@@ -17,7 +17,7 @@ Description: "Eine Metered OEM-Lizenz erlaubt einer unbegrenzten Anzahl von Entw
 Verarbeiten Sie so viele Dateien, wie Sie benötigen. Nach einem Monat berechnen wir das gesamte Guthaben und stellen es Ihnen gemäß dem untenstehenden Plan in Rechnung. Jedes Mal, wenn Sie ein Dokument öffnen oder speichern, wird ein Credit gezählt.
 &nbsp;  
 
-Weitere Informationen zu unserer Metered OEM-Lizenz finden Sie [hier](https://purchase.aspose.com/policies/license-types/#MeteredOEM). Lesen Sie die [FAQ zu getakteten Lizenzen](https://purchase.aspose.com/faqs/licensing/metered/) für Antworten auf Ihre Fragen und Szenarien.  
+Weitere Informationen zu unserer Metered OEM-Lizenz finden Sie [hier](https://purchase.groupdocs.com/policies/license-types/#MeteredOEM). Lesen Sie die [FAQ zu getakteten Lizenzen](https://purchase.groupdocs.com/faqs/licensing/metered/) für Antworten auf Ihre Fragen und Szenarien.  
 
 {{< row-end >}}
 &nbsp;  

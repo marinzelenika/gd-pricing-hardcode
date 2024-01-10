@@ -17,7 +17,7 @@ Description: "Una licencia OEM medida permite que una cantidad ilimitada de desa
 Procese tantos archivos como necesite. Después de un mes, calcularemos los créditos totales y le facturaremos de acuerdo con el siguiente plan. Se cuenta un crédito cada vez que realiza una operación de apertura o guardado en un documento.  
 &nbsp;  
 
-Puede encontrar más información sobre nuestra licencia OEM medida [aquí](https://purchase.aspose.com/policies/license-types/#MeteredOEM). Lea las [Preguntas frecuentes sobre licencias medidas](https://purchase.aspose.com/faqs/licensing/metered/) para obtener respuestas a sus preguntas y escenarios.  
+Puede encontrar más información sobre nuestra licencia OEM medida [aquí](https://purchase.groupdocs.com/policies/license-types/#MeteredOEM). Lea las [Preguntas frecuentes sobre licencias medidas](https://purchase.groupdocs.com/faqs/licensing/metered/) para obtener respuestas a sus preguntas y escenarios.  
 
 {{< row-end >}}
 &nbsp;  

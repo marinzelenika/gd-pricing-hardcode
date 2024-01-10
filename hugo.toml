@@ -10,13 +10,16 @@ theme = 'mytheme'
 
 [params.dynamicmenuid]
   en = "groupdocs-en"
-  de = "groupdocs-de"
-  es = "groupdocs-es"
   fr = "groupdocs-fr"
-  it = "groupdocs-it"
-  ja = "groupdocs-ja"
-  ru = "groupdocs-ru"
   zh = "groupdocs-zh"
+  ru = "groupdocs-ru"
+  de = "groupdocs-de"
+  ja = "groupdocs-ja"
+  es = "groupdocs-es"
+  it = "groupdocs-it"
+  
+  
+  
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
@@ -25,7 +28,7 @@ defaultContentLanguageInSubdir = true
     languageName = 'Deutsch'
     languageCode = "de"
     title = "Preisinformationen | groupdocs.com"
-    weight = 4
+    weight = 5
     [languages.de.params]
       flag = "flag-de"
     
@@ -41,7 +44,7 @@ defaultContentLanguageInSubdir = true
     languageName = 'Español'
     languageCode = "es"
     title = "Información de precio | groupdocs.com"
-    weight = 5
+    weight = 7
     [languages.es.params]
       flag = "flag-es"
 
@@ -49,7 +52,7 @@ defaultContentLanguageInSubdir = true
     languageName = 'Français'
     languageCode = "fr"
     title = "Information sur les prix | groupdocs.com"
-    weight = 6
+    weight = 2
     [languages.fr.params]
       flag = "flag-fr"
 
@@ -57,7 +60,7 @@ defaultContentLanguageInSubdir = true
     languageName = 'Italiano'
     languageCode = "it"
     title = "Informazioni sui prezzi | groupdocs.com"
-    weight = 7
+    weight = 8
     [languages.it.params]
       flag = "flag-it"
 
@@ -65,7 +68,7 @@ defaultContentLanguageInSubdir = true
     languageName = '日本語'
     languageCode = "ja"
     title = "価格情報 | groupdocs.com"
-    weight = 8
+    weight = 6
     [languages.ja.params]
      flag = "flag-ja"
 
@@ -73,7 +76,7 @@ defaultContentLanguageInSubdir = true
     languageName = 'Русский'
     languageCode = "ru"
     title = "Информация о ценах | groupdocs.com"
-    weight = 9
+    weight = 4
     [languages.ru.params]
      flag = "flag-ru"
 
@@ -81,6 +84,6 @@ defaultContentLanguageInSubdir = true
     languageName = '简体中文'
     languageCode = "zh"
     title = "定价信息 | groupdocs.com"
-    weight = 10
+    weight = 3
     [languages.zh.params]
      flag = "flag-zh"

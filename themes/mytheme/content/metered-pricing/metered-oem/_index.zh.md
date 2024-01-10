@@ -17,7 +17,7 @@ Description: "计量 OEM 许可证允许您组织中无限数量的开发人员�
 根据需要处理尽可能多的文件。 一个月后，我们将计算总积分并根据以下计划向您收费。 每次对文档执行打开或保存操作时，都计为一个积分。 
 &nbsp;  
 
-有关我们的计量 OEM 许可证的更多信息，请参见 [此处](https://purchase.aspose.com/policies/license-types/#MeteredOEM). 阅读 [计量许可证常见问题解答](https://purchase.aspose.com/faqs/licensing/metered/) 为您的问题和方案的答案。 
+有关我们的计量 OEM 许可证的更多信息，请参见 [此处](https://purchase.groupdocs.com/policies/license-types/#MeteredOEM). 阅读 [计量许可证常见问题解答](https://purchase.groupdocs.com/faqs/licensing/metered/) 为您的问题和方案的答案。 
 
 {{< row-end >}}
 &nbsp;  

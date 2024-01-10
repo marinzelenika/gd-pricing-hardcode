@@ -21,13 +21,22 @@
     {{ partial "groupdocs-redaction" . }}
     {{ partial "groupdocs-classification" . }}
   </div>
-  <span>{{ i18n "note" }} <strong>USD</strong> </span>
-  
-  <div class="text-center">
-    <a href="https://kb.groupdocs.com/" class="btn btn-primary read-more">
-       {{ i18n "read-more" }}
-    </a>
-      <hr style="margin-bottom: 15px; color:black">
-      </div>
+  {{ if eq .Site.Language.Lang "en" }}
+  <h2 class="mt-5">{{ i18n "knowledgebase" . }}</h2>
+{{- range first 4 (where .Site.RegularPages "Type" "knowledgebase") -}}
+<div class="card border-primary mb-3 article-card" onclick="window.location='{{ .RelPermalink }}';">
+  <div class="card-body text-primary">
+    <h5 class="card-title" style="color: black;">{{ .Params.Name }}</h5>
+    <p class="card-text" id="card-text">{{ .Params.description }}</p>
+  </div>
+</div>
+{{ end }}
+<div class="text-center">
+<a href="{{ .Site.BaseURL }}knowledgebase" class="btn btn-primary read-more">
+    {{ i18n "read-more" . }}
+</a>
+  <hr style="margin-bottom: 15px; color:black">
+  </div>
+  {{ end }}
 </div>
 {{ end }}
