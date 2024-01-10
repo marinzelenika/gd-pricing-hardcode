@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/pricing'
+baseURL = 'http://test-pricing-gd.s3-website.eu-central-1.amazonaws.com/pricing/'
 languageCode = 'en-us'
 title = 'GroupDocs pricing information'
 theme = 'mytheme'

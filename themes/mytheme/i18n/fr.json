@@ -75,6 +75,12 @@
     "pricing": {
       "other": "Tarification"
     },
+    "jump-to": {
+      "other": "Aller à"
+    },
+    "visit-product-page": {
+        "other": "Visiter la page du produit"
+    },
     "home-description": {
       "other": "Améliorez vos applications web, mobiles ou de bureau avec la capacité d'afficher, d'annoter, de convertir, de signer électroniquement, de comparer et de rassembler des documents."
     },

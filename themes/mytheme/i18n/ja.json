@@ -106,6 +106,12 @@
     "year": {
       "other": "年"
     },
+    "jump-to": {
+      "other": "ジャンプ先"
+    },
+    "visit-product-page": {
+      "other": "製品ページを訪れる"
+    },
     "developers-licensed": {
       "other": "ライセンスされた開発者数"
     },

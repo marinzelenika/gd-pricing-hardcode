@@ -105,6 +105,12 @@
     "year": {
       "other": "год"
     },
+    "visit-product-page": {
+      "other": "Посетить страницу продукта"
+    },
+    "jump-to": {
+      "other": "Перейти к"
+    },
     "developers-licensed": {
       "other": "Лицензированные разработчики"
     },

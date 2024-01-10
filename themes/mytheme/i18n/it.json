@@ -105,6 +105,12 @@
     "year": {
       "other": "anno"
     },
+    "jump-to": {
+      "other": "Vai a"
+    },
+    "visit-product-page": {
+      "other": "Visita la pagina del prodotto"
+    },
     "developers-licensed": {
       "other": "Sviluppatori con licenza"
     },

@@ -105,6 +105,12 @@
     "year": {
       "other": "年"
     },
+    "jump-to": {
+      "other": "跳转至"
+    },
+    "visit-product-page": {
+      "other": "访问产品页面"
+    },
     "developers-licensed": {
       "other": "许可的开发人员"
     },
