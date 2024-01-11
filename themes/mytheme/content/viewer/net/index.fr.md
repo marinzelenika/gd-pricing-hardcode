@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Viewer for .NET",
+    "Description": "Professional .NET document viewer component. Supports all common document formats, including Microsoft Office and PDF. ",
     "FamilyId": 179138,
     "Id": 54110,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/94036.jpg",

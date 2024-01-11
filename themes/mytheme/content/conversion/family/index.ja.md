@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Conversion Product Family",
+    "Description": "Convert popular document and image file formats on any platform with app and api-based solutions.",
     "FamilyId": 179140,
     "Id": 76145,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/115770.jpg",

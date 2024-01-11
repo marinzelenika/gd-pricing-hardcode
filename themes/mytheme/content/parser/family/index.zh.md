@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Parser Product Family",
+    "Description": "Extract text, images, metadata and encoding detection for Microsoft Office, OpenOffice, PDF, HTML and other file formats of your choice.",
     "FamilyId": 179147,
     "Id": 76152,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/116123.jpg",

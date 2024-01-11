@@ -3,13 +3,14 @@
     <div class="card-flag">{{ i18n "most-popular" . }} </div>
 
     <div class="card-body list-card-body">
+      {{ $image := resources.Get "images/519934.png" }}
       <img
-        class="product-icon"
-        src="https://purchase-api.dynabic.com/v1.2/files/519934.jpg"
-        width="50"
-        height="50"
-        alt="GroupDocs.Total Product Family"
-      />
+      class="product-icon"
+      src="{{ $image.RelPermalink }}"
+      width="50"
+      height="50"
+      alt="Aspose.PDF Product Family"
+    />
 
       <h5 class="card-title suite-text"><strong>GroupDocs.Total</strong></h5>
       <p class="card-text suite-text">

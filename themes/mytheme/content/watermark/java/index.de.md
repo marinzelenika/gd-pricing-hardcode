@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Watermark for Java",
+    "Description": "Document watermark creator and remover APIs for Images, PDF and Microsoft Office documents within any Java based application",
     "FamilyId": 179149,
     "Id": 86271,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/311385.jpg",

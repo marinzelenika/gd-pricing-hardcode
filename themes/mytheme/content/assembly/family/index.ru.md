@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Assembly Product Family",
+    "Description": "Auto-generate reports in different formats from custom templates and different data sources with our cross platform apps and APIs.",
     "FamilyId": 179143,
     "Id": 76149,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/116020.jpg",

@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Total Product Family",
+    "Description": "Manipulate documents from within your own desktop solutions and web apps without requiring any other commercial products.",
     "FamilyId": 179137,
     "Id": 76147,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/115993.jpg",

@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Assembly for Java",
+    "Description": "Allows you to generate custom documents by automatically incorporating user-entered data into PDF and Word templates.",
     "FamilyId": 179143,
     "Id": 76161,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/159979.jpg",

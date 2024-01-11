@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Redaction for Java",
+    "Description": "Exclude or hide personal information & metadata from documents, worksheets, presentations, PDF and raster image files using Java redaction API.\u200e",
     "FamilyId": 196219,
     "Id": 89588,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/319443.jpg",

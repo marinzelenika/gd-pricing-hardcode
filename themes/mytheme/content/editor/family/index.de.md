@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Editor Product Family",
+    "Description": "A compilation of every GroupDocs.Editor API: GroupDocs.Editor for .NET, GroupDocs.Editor for Java",
     "FamilyId": 179150,
     "Id": 76160,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/139523.jpg",

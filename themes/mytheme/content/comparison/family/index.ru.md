@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Comparison Product Family",
+    "Description": "Compare document content and styles across popular platforms with our on premise & cloud APIs and app-based solutions.",
     "FamilyId": 179141,
     "Id": 76146,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/115772.jpg",

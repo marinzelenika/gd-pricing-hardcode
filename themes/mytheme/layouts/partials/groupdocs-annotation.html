@@ -1,15 +1,16 @@
 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-12 d-flex">
   <div class="card mt-3 mb-3 flex-fill list-card" id="179139">
     <div class="card-body list-card-body">
+      {{ $image := resources.Get "images/519937.png" }}
       <img
         class="product-icon"
-        src="https://purchase-api.dynabic.com/v1.2/files/519937.jpg"
+        src="{{ $image.RelPermalink }}"
         width="50"
         height="50"
-        alt="GroupDocs.Annotation Product Family"
+        alt="Aspose.PDF Product Family"
       />
 
-      <h5 class="card-title"><strong>GroupDocs.Annotation</strong></h5>
+      <h5 class="card-title list-title"><strong>GroupDocs.Annotation</strong></h5>
       <p class="card-text">
         {{ i18n "desc-GroupDocs.Annotation Product Family" . }}
       </p>

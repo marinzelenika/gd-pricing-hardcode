@@ -1,42 +1,16 @@
 {{ define "main" }}
-<header>
-  {{ partial "header.html" . }}
-</header>
+<header>{{ partial "header.html" . }}</header>
 <div class="container">
   {{ partial "jump-to-button" . }}
   <div class="row">
-    {{ partial "groupdocs-total" . }}
-    {{ partial "groupdocs-viewer" . }}
-    {{ partial "groupdocs-conversion" . }}
-    {{ partial "groupdocs-editor" . }}
-    {{ partial "groupdocs-merger" . }}
-    {{ partial "groupdocs-comparison" . }}
-    {{ partial "groupdocs-annotation" . }}
-    {{ partial "groupdocs-assembly" . }}
-    {{ partial "groupdocs-parser" . }} 
-    {{ partial "groupdocs-signature" . }}
-    {{ partial "groupdocs-metadata" . }}
-    {{ partial "groupdocs-search" . }}
-    {{ partial "groupdocs-watermark" . }}
-    {{ partial "groupdocs-redaction" . }}
-    {{ partial "groupdocs-classification" . }}
+    {{ partial "groupdocs-total" . }} {{ partial "groupdocs-viewer" . }} {{
+    partial "groupdocs-conversion" . }} {{ partial "groupdocs-editor" . }} {{
+    partial "groupdocs-merger" . }} {{ partial "groupdocs-comparison" . }} {{
+    partial "groupdocs-annotation" . }} {{ partial "groupdocs-assembly" . }} {{
+    partial "groupdocs-parser" . }} {{ partial "groupdocs-signature" . }} {{
+    partial "groupdocs-metadata" . }} {{ partial "groupdocs-search" . }} {{
+    partial "groupdocs-watermark" . }} {{ partial "groupdocs-redaction" . }} {{
+    partial "groupdocs-classification" . }}
   </div>
-  {{ if eq .Site.Language.Lang "en" }}
-  <h2 class="mt-5">{{ i18n "knowledgebase" . }}</h2>
-{{- range first 4 (where .Site.RegularPages "Type" "knowledgebase") -}}
-<div class="card border-primary mb-3 article-card" onclick="window.location='{{ .RelPermalink }}';">
-  <div class="card-body text-primary">
-    <h5 class="card-title" style="color: black;">{{ .Params.Name }}</h5>
-    <p class="card-text" id="card-text">{{ .Params.description }}</p>
-  </div>
-</div>
-{{ end }}
-<div class="text-center">
-<a href="{{ .Site.BaseURL }}knowledgebase" class="btn btn-primary read-more">
-    {{ i18n "read-more" . }}
-</a>
-  <hr style="margin-bottom: 15px; color:black">
-  </div>
-  {{ end }}
 </div>
 {{ end }}

@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Parser for .NET",
+    "Description": "Extract raw and formatted text from different formats including emails, zip files and legal documents containing metadata information within any .NET Application",
     "FamilyId": 179147,
     "Id": 76132,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/138833.jpg",

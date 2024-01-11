@@ -774,3 +774,9 @@ z-index: 1 !important;
         left: 0; // align to the left side of the parent
     }
 }
+@media (min-width: 500px) {
+    .list-title {
+        font-size: 17px !important;
+        letter-spacing: -0.5px !important;
+    }
+}

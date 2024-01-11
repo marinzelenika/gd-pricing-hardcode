@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Editor for .NET",
+    "Description": "Manipulate any document using HTML with or without the integration of HTML Editor within any .NET application.",
     "FamilyId": 179150,
     "Id": 76158,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/139519.jpg",

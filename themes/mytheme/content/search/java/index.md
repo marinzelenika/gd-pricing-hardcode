@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Search for Java",
+    "Description": "Search, discover and analyze documents efficiently within any Java based application.",
     "FamilyId": 179145,
     "Id": 89586,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/318363.jpg",

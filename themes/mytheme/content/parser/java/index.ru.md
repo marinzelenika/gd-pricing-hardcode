@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Parser for Java",
+    "Description": "Extract raw and formatted text as well as metadata from different formats including emails, zip files and legal documents.",
     "FamilyId": 179147,
     "Id": 89236,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/314587.jpg",

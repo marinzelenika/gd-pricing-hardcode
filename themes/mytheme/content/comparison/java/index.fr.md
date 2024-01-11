@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Comparison for Java",
+    "Description": "Allows end-users to compare documents from within your .NET application. Supports Microsoft Office formats, PDFs and more.",
     "FamilyId": 179141,
     "Id": 76143,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/115474.jpg",

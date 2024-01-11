@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Search Product Family",
+    "Description": "Perform text search and indexing on Microsoft Office, OpenOffice, PDF and many other document file formats.",
     "FamilyId": 179145,
     "Id": 76151,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/116024.jpg",

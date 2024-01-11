@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Conversion for .NET",
+    "Description": "Lets you convert back and forth between over 45 file formats. Both single and batch conversion modes are available. ",
     "FamilyId": 179140,
     "Id": 57628,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/94052.jpg",

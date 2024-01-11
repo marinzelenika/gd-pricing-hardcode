@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Watermark for .NET",
+    "Description": "Text and image watermark placement and removal in PDF, Images, Microsoft Office and Visio documents within any .NET application.",
     "FamilyId": 179149,
     "Id": 76153,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/116279.jpg",

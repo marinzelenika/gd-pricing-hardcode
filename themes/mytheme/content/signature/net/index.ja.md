@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Signature for .NET",
+    "Description": "A powerful .NET electronic signature component. Includes controls for preparing, sending, managing and signing documents.",
     "FamilyId": 179142,
     "Id": 55424,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/94048.jpg",

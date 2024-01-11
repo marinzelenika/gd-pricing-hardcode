@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Viewer for Java",
+    "Description": "Professional Java document viewer component. Supports all common document formats, including Microsoft Office and PDF.",
     "FamilyId": 179138,
     "Id": 55427,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/94038.jpg",

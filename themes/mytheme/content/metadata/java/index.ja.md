@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Metadata for Java",
+    "Description": null,
     "FamilyId": 179144,
     "Id": 76237,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/204373.jpg",

@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Conversion for Node.Js via Java",
+    "Description": "Simple API to Integrate Document & Image Conversion Functionality into Node.js Applications without Installing any External Software.",
     "FamilyId": 179140,
     "Id": 89786,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/646506.jpg",

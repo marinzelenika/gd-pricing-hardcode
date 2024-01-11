@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Merger for Java",
+    "Description": "Combine multiple files into a single one as well as split, remove or reorder document pages of a supported format",
     "FamilyId": 196215,
     "Id": 89583,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/317546.jpg",

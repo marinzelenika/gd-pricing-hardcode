@@ -1,0 +1,4 @@
+---
+Description: "Discover GroupDocs.com, the forefront innovator in document automation APIs. Our comprehensive suite is designed to revolutionize how you interact with documents in .NET and Java applications. From seamless viewing to advanced editing, our APIs empower you to convert, annotate, compare, sign, assemble, and edit documents with unparalleled ease. Dive into our advanced features like watermarking, redaction, classification, splitting, and translation, all crafted to streamline your document management process. Experience the future of document automation with GroupDocs – where efficiency meets precision."
+Name: "GroupDocs"
+---

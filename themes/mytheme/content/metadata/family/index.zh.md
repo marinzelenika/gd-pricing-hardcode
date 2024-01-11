@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Metadata Product Family",
+    "Description": "APIs and apps to read, edit, replace and remove metadata of documents, images and other file formats on popular platforms.",
     "FamilyId": 179144,
     "Id": 76150,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/116022.jpg",

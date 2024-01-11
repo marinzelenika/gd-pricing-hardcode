@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Redaction Product Family",
+    "Description": ".NET APIs to Hide or Remove classified information from document content, comments, annotations.",
     "FamilyId": 196219,
     "Id": 89589,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/319445.jpg",

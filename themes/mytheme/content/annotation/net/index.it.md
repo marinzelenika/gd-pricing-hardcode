@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Annotation for .NET",
+    "Description": "Lets end-users annotate Microsoft Office documents, PDFs and images from within your .NET application.",
     "FamilyId": 179139,
     "Id": 56594,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/94044.jpg",

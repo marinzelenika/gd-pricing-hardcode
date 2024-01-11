@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Redaction for .NET",
+    "Description": "Redact, hide or remove sensitive content & metadata from documents, worksheets, presentations, \u200eand PDF files using .NET API.\u200e",
     "FamilyId": 196219,
     "Id": 89587,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/319441.jpg",

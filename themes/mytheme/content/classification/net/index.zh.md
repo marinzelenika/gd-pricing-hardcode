@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Classification for .NET",
+    "Description": "Empower your .NET applications with File & Text Classifier abilities using pre-defined tags or categories within IAB-2 or documents taxonomies.",
     "FamilyId": 196232,
     "Id": 89629,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/418471.jpg",

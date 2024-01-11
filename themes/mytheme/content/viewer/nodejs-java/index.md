@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Viewer for Node.Js via Java",
+    "Description": "Document Viewer Library to Develop JavaScript Applications that Natively Render, View and Manipulate, Multi-Format Documents Supporting 170+ File Formats.",
     "FamilyId": 179138,
     "Id": 89793,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/650764.jpg",

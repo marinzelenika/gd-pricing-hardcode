@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Annotation Product Family",
+    "Description": "Annotate documents with our apps or build your own custom annotation applications across popular platforms using on premise or cloud APIs.",
     "FamilyId": 179139,
     "Id": 76144,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/115765.jpg",

@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Merger Product Family",
+    "Description": "Easily merge multiple documents or split Microsoft Office, OpenOffice, PDF and other documents into pages.",
     "FamilyId": 196215,
     "Id": 89573,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/315139.jpg",

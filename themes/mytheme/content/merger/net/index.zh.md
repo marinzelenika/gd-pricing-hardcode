@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Merger for .NET",
+    "Description": "Split, remove, reorder and combine pages along with security features of a supported format within .NET applications",
     "FamilyId": 196215,
     "Id": 86266,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/310393.jpg",

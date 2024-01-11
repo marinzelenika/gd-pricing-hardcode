@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Watermark Product Family",
+    "Description": "Quickly apply & manipulate text and image based watermarks of your documents and images with smart search.",
     "FamilyId": 179149,
     "Id": 76155,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/137566.jpg",

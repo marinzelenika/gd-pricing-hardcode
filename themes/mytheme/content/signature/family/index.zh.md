@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Signature Product Family",
+    "Description": "Sign digital documents and images on any platform using our flexible APIs and app based solutions for programmers and end users.",
     "FamilyId": 179142,
     "Id": 76148,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/116010.jpg",

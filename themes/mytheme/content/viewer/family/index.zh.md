@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Viewer Product Family",
+    "Description": "Flexible document viewing solution for programmers and professionals to render and display widely used file formats anywhere.",
     "FamilyId": 179138,
     "Id": 76142,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/115416.jpg",

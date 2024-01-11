@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Editor for Java",
+    "Description": "Edit and transform documents using HTML Editor or by any UI-less service within any Java based application",
     "FamilyId": 179150,
     "Id": 76265,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/289708.jpg",

@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Total for Java",
+    "Description": "APIs to View, Export, Annotate, Compare, Sign, Automate and Search documents from within any Java application.",
     "FamilyId": 179137,
     "Id": 62530,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/94058.jpg",

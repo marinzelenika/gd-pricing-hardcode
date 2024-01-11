@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Signature for Java",
+    "Description": "A powerful Java electronic signature component. Includes controls for preparing, sending, managing and signing documents.",
     "FamilyId": 179142,
     "Id": 76157,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/139412.jpg",

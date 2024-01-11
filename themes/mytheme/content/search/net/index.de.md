@@ -1,5 +1,6 @@
 {
     "Name": "GroupDocs.Search for .NET",
+    "Description": "Basic and advance search functionality to retrieve full text and metadata from Microsoft Word, Excel, PowerPoint, PDF and Text documents.",
     "FamilyId": 179145,
     "Id": 76128,
     "LargeImg": "//purchase-api.dynabic.com/v1.2/files/138837.jpg",
