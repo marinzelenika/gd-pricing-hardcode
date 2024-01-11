@@ -296,6 +296,12 @@
     },
     "expl16": {
       "other": "Déploiements commerciaux : toute distribution de logiciels d'utilisateur final par vous à des utilisateurs finaux tiers, soit directement, soit via des canaux de distribution. Chaque client, qu'il s'agisse d'un individu ou d'une entité unique, de votre logiciel d'utilisateur final compte pour un (1) déploiement commercial."
+    },
+    "paid-support-note": {
+      "other": "L'abonnement au support payant est acheté en tant que produit distinct et ne fait pas partie de la licence du produit."
+    },
+    "paid-consulting-note": {
+      "other": "GroupDocs Paid Consulting est un moyen efficace et sûr d'externaliser votre projet logiciel et de faire passer votre entreprise au niveau supérieur."
     }
   }
 ]

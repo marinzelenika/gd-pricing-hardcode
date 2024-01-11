@@ -290,6 +290,12 @@
     },
     "expl16": {
       "other": "Distribuzioni commerciali: qualsiasi distribuzione del Software per l'utente finale da parte dell'utente a utenti finali di terze parti, direttamente o tramite canali di distribuzione. Ciascun cliente, sia esso un individuo o una singola entità, del Software per l'utente finale conta come una (1) Distribuzione commerciale."
+    },
+    "paid-support-note": {
+      "other": "L'abbonamento al supporto a pagamento viene acquistato come prodotto separato e non fa parte della licenza del prodotto."
+    },
+    "paid-consulting-note": {
+      "other": "La consulenza a pagamento di GroupDocs è un modo efficiente e sicuro per esternalizzare il tuo progetto software e portare la tua attività al livello successivo."
     }
   }
 ]

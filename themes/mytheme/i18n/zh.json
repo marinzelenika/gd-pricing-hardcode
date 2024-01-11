@@ -293,6 +293,15 @@
     },
     "note-Site SDK":{
       "other": "最多 10 个开发人员和 250 个商业部署"
+    },
+      "commercial-deployments":{
+      "other": "商业部署"
+    },
+    "paid-support-note": {
+      "other": "付费支持订阅作为单独的产品购买，不属于产品许可证的一部分。"
+    },
+    "paid-consulting-note": {
+      "other": "付费咨询是一种高效、安全的方式来外包您的软件项目并使您的业务更上一层楼。"
     }
   }
 ]

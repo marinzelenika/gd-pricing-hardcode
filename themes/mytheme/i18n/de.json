@@ -251,6 +251,43 @@
     },
     "metered": {
       "other": "Verbrauchsabhängig"
+    },
+    "commercial-deployments": {
+      "other": "Kommerzielle Bereitstellungen"
+    },
+    "total-credits": {
+      "other": "Gesamt Credits"
+    },
+    "rate-credit": {
+      "other": "Zinssatz/Kredit"
+    },
+    "price-month": {
+      "other": "Preis/Monat"
+    },
+    "to": {
+      "other": "bis"
+    },
+    "flat-rate": {
+      "other": "Pauschale"
+    },
+    "next": {
+      "other": "Nächste"
+    },
+    "fixed": {
+      "other": "Festpreis"
+    },
+    "any-additional": {
+      "other": "Irgendwelche zusätzlichen"
+    },
+    "calculate": {
+      "other": "Berechnung"
+    },
+    "processed-credits": {
+      "other": "Insgesamt verarbeitete Credits"
+    },
+    "get-temp-lic": {
+      "other": "Holen Sie sich eine temporäre Lizenz"
     }
+    
   }
 ]
