@@ -287,6 +287,9 @@
     },
     "get-temp-lic": {
       "other": "Holen Sie sich eine temporäre Lizenz"
+    },
+    "credit":{
+      "other": "Kredit"
     }
     
   }

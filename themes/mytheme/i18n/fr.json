@@ -302,6 +302,9 @@
     },
     "paid-consulting-note": {
       "other": "GroupDocs Paid Consulting est un moyen efficace et sûr d'externaliser votre projet logiciel et de faire passer votre entreprise au niveau supérieur."
+    },
+    "credit":{
+      "other": "Crédit"
     }
   }
 ]

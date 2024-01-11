@@ -296,6 +296,9 @@
     },
     "paid-consulting-note": {
       "other": "La consulenza a pagamento di GroupDocs è un modo efficiente e sicuro per esternalizzare il tuo progetto software e portare la tua attività al livello successivo."
+    },
+    "credit":{
+      "other": "Credito"
     }
   }
 ]
