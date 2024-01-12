@@ -403,7 +403,8 @@ hr {
 
 .help-tip p{
 	display: none;
-    left:18px !important;
+    left:31.3px !important;
+    top:25px !important;
 	text-align: left;
 	background-color: #1E2021;
 	padding: 20px;
@@ -779,4 +780,11 @@ z-index: 1 !important;
         font-size: 17px !important;
         letter-spacing: -0.5px !important;
     }
+}
+.single-header {
+    padding: 2.2rem 1.7rem;
+    margin-bottom: 2rem;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg,#439cda 0,#286baf 100%) center center/cover no-repeat;
+    color: white;
 }

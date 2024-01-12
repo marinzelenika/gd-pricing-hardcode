@@ -17,7 +17,7 @@ Description: "A Metered Small Business license allows an unlimited number of dev
 Process as many files as you require. After one month, we will calculate the total credits and bill you according to the below plan. One credit is counted each time you perform an open or a save operation on a document.  
 &nbsp;  
 
-More information about our Metered Small Business license can be found [here](https://purchase.groupdocs.com/policies/license-types/#MeteredSmallBusiness). Read the [Metered License FAQ](https://purchase.groupdocs.com/faqs/licensing/metered/) for answers to your questions and scenarios.  
+More information about our Metered Small Business license can be found [here](https://purchase.groupdocs.com/policies/license-types/#metered-small-business-license). Read the [Metered License FAQ](https://purchase.groupdocs.com/faqs/licensing/metered/) for answers to your questions and scenarios.  
 
 {{< row-end >}}
 &nbsp;  

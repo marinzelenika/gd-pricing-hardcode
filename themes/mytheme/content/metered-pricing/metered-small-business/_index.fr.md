@@ -17,7 +17,7 @@ Description: "Une licence pour petite entreprise tarifée permet à un nombre il
 Traitez autant de fichiers que nécessaire. Après un mois, nous calculerons le total des crédits et vous facturerons selon le plan ci-dessous. Un crédit est comptabilisé à chaque fois que vous effectuez une opération d'ouverture ou d'enregistrement sur un document.  
 &nbsp;  
 
-Vous pouvez trouver plus d'informations sur notre licence pour petite entreprise tarifée [ici](https://purchase.groupdocs.com/policies/license-types/#MeteredSmallBusiness). Consultez les [FAQ sur les licences tarifées](https://purchase.groupdocs.com/faqs/licensing/metered/) pour trouver des réponses à vos questions et scénarios.  
+Vous pouvez trouver plus d'informations sur notre licence pour petite entreprise tarifée [ici](https://purchase.groupdocs.com/policies/license-types/#metered-small-business-license). Consultez les [FAQ sur les licences tarifées](https://purchase.groupdocs.com/faqs/licensing/metered/) pour trouver des réponses à vos questions et scénarios.  
 
 {{< row-end >}}
 &nbsp;  

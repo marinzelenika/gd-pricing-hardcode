@@ -187,13 +187,16 @@
       "other": "J�hrlich"
     },
     "expl1": {
-      "other": "Entwickler: Ein Entwickler kann ein Softwareentwickler, ein Systemadministrator, ein Berichtersteller oder eine andere Person sein, die das Produkt verwendet. Jeder Entwickler, der mit Aspose-Produkten arbeitet, muss lizenziert sein."
+      "other": "Entwickler: Ein Entwickler kann ein Softwareentwickler, ein Systemadministrator, ein Berichtersteller oder eine andere Person sein, die das Produkt verwendet. Jeder Entwickler, der mit Groupdocs-Produkten arbeitet, muss lizenziert sein."
     },
     "expl2": {
-      "other": "Standort: Ein Standort ist der physische Ort, an dem ein abgeleitetes Werk verwendet wird. Jede einzelne Adresse oder jedes B�rogeb�ude innerhalb oder au�erhalb einer Organisation. Abgeleitetes Werk: Ein Softwareprogramm, eine Website, ein Berichtsersteller oder eine andere L�sung, Arbeit oder ein Produkt, das Aspose-Produkte enth�lt oder verwendet."
+      "other": "Ort: Ein Ort ist der physische Ort, an dem eine abgeleitete Arbeit verwendet wird. Jede eindeutige Adresse oder Bürogebäude innerhalb oder außerhalb einer Organisation."
+    },
+    "expl2-2": {
+      "other": "Abgeleitete Arbeit: ein Softwareprogramm, eine Website, ein Report Builder oder eine andere Lösung, Arbeit oder ein Produkt, das Groupdocs-Produkte integriert oder verwendet."
     },
     "expl3": {
-      "other": "Erm�glicht die Verteilung abgeleiteter Werke an eine unbegrenzte Anzahl von physischen oder virtuellen Servern an unbegrenzten physischen Standorten (unterschiedliche Adresse oder B�rogeb�ude). Abgeleitetes Werk: Ein Softwareprogramm, eine Website, ein Berichtsersteller oder eine andere L�sung, Arbeit oder ein Produkt, das Aspose-Produkte enth�lt oder verwendet."
+      "other": "Erm�glicht die Verteilung abgeleiteter Werke an eine unbegrenzte Anzahl von physischen oder virtuellen Servern an unbegrenzten physischen Standorten (unterschiedliche Adresse oder B�rogeb�ude). Abgeleitetes Werk: Ein Softwareprogramm, eine Website, ein Berichtsersteller oder eine andere L�sung, Arbeit oder ein Produkt, das Groupdocs-Produkte enth�lt oder verwendet."
     },
     "expl4": {
       "other": "Erm�glicht die Verwendung des Produkts innerhalb einer App-Bereitstellung innerhalb eines Unternehmens (Unternehmen)."
@@ -211,7 +214,10 @@
       "other": "Wenn Sie Software mit einer API entwickeln, die von anderen Entwicklern verwendet wird, gilt dies auch f�r Sie."
     },
     "expl9": {
-      "other": "Perpetual: Die Lizenz zur Verwendung des Produkts l�uft nicht ab. Pay-per-use: Zahlen Sie monatlich Lizenzgeb�hren f�r die Nutzung des Produkts."
+      "other": "Perpetuell: Die Lizenz zur Verwendung des Produkts l�uft nicht ab."
+    },
+    "expl9-2": {
+      "other": " Bezahlen pro Benutzung: Zahlen Sie monatlich Lizenzgeb�hren f�r die Nutzung des Produkts."
     },
     "expl10": {
       "other": "Updates und Hotfixes f�r ein Jahr"
@@ -221,6 +227,12 @@
     },
     "expl12": {
       "other": "Rabatt: Ein Rabatt wird angewendet, wenn Sie mehrere Produkte oder Lizenzen gleichzeitig kaufen."
+    },
+    "expl13": {
+      "other": "Kaufen Sie mehrere Lizenzen und erhalten Sie einen Rabatt. Gemessene Lizenzen beinhalten integrierte Rabatte, da das Hinzufügen zusätzlicher Entwickler nicht zu höheren Kosten führt."
+    },
+    "expl14": {
+      "other": "Erhalten Sie vor dem Kauf oder auch nach Ablauf Ihres Wartungsabonnements kostenlosen technischen Support. Für vorrangigen Support schauen Sie sich die kostenpflichtigen Supportoptionen an"
     },
     "learn-more": {
       "other": "Erfahren Sie mehr"
@@ -290,7 +302,15 @@
     },
     "credit":{
       "other": "Kredit"
+    },
+    "expl15": {
+      "other": "Ein Kauf enthält ein Abonnement, das Sie zu einem Jahr der Produktaktualisierungen berechtigt. Wenn das Jahr vergangen ist Sie müssen zuerst Ihr Abonnement erneuern."
+    },
+    "expl15Note": {
+     "other": "Hinweis: Messlizenzen sind immer auf dem neuesten Stand."
+    },
+    "expl16": {
+      "other": "Kommerzielle Bereitstellungen: Jegliche Verteilung von Endbenutzersoftware durch Sie an Endbenutzer Dritter, entweder direkt oder über Vertriebskanäle. Jeder Kunde Ihrer Endbenutzersoftware, sei es eine Einzelperson oder eine einzelne juristische Person, zählt als eine (1) kommerzielle Bereitstellung."
     }
-    
   }
 ]

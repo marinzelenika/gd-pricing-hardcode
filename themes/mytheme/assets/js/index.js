@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     link.href = baseHref;
-    totalPriceElement.innerText = totalPrice.toFixed(2); // Display the price with 2 decimal places
+    totalPriceElement.innerText = totalPrice.toFixed(0); // Display the price with 2 decimal places
   }
 
   supportCheckboxes.forEach(function (checkbox) {

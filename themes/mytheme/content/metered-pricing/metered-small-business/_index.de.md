@@ -17,7 +17,7 @@ Description: "Eine Metered Small Business-Lizenz erlaubt einer unbegrenzten Anza
 Verarbeiten Sie so viele Dateien, wie Sie benötigen. Nach einem Monat berechnen wir das gesamte Guthaben und stellen es Ihnen gemäß dem untenstehenden Plan in Rechnung. Jedes Mal, wenn Sie ein Dokument öffnen oder speichern, wird ein Credit gezählt.  
 &nbsp;  
 
-Weitere Informationen zu unserer Metered Small Business-Lizenz [finden Sie hier](https://purchase.groupdocs.com/policies/license-types/#MeteredSmallBusiness). Lesen Sie die [FAQ zu getakteten Lizenzen](https://purchase.groupdocs.com/faqs/licensing/metered/) für Antworten auf Ihre Fragen und Szenarien.  
+Weitere Informationen zu unserer Metered Small Business-Lizenz [finden Sie hier](https://purchase.groupdocs.com/policies/license-types/#metered-small-business-license). Lesen Sie die [FAQ zu getakteten Lizenzen](https://purchase.groupdocs.com/faqs/licensing/metered/) für Antworten auf Ihre Fragen und Szenarien.  
 
 {{< row-end >}}
 &nbsp;  

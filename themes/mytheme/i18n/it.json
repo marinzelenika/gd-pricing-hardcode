@@ -166,13 +166,16 @@
       "other": "Annuale"
     },
     "expl1": {
-      "other": "Sviluppatore: un Sviluppatore potrebbe essere un programmatore, un amministratore di sistemi, un autore di report o qualsiasi altra persona che utilizza il prodotto. Ogni sviluppatore che lavora con i prodotti Aspose deve essere concesso in licenza."
+      "other": "Sviluppatore: un Sviluppatore potrebbe essere un programmatore, un amministratore di sistemi, un autore di report o qualsiasi altra persona che utilizza il prodotto. Ogni sviluppatore che lavora con i prodotti Groupdocs deve essere concesso in licenza."
     },
     "expl2": {
-      "other": "Posizione: una Posizione è la posizione fisica in cui viene utilizzata un'opera derivata; ogni indirizzo o edificio ufficio distinto, all'interno o all'esterno di un'organizzazione. Opera derivata: un programma software, un sito, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Aspose."
+      "other": "Posizione: una posizione è la posizione fisica in cui viene utilizzato un lavoro derivato; Ogni indirizzo distinto o edificio per uffici, all'interno o all'esterno di un'organizzazione."
+    },
+    "expl2-2": {
+      "other": "Lavoro derivato: un programma software, un sito, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza prodotti Groupdocs."
     },
     "expl3": {
-      "other": "Consente la distribuzione di opere derivate su un numero illimitato di server fisici o virtuali in un numero illimitato di posizioni fisiche (indirizzo o edificio ufficio distinto). Opera derivata: un programma software, un sito, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Aspose."
+      "other": "Consente la distribuzione di opere derivate su un numero illimitato di server fisici o virtuali in un numero illimitato di posizioni fisiche (indirizzo o edificio ufficio distinto). Opera derivata: un programma software, un sito, un generatore di report o qualsiasi altra soluzione, lavoro o prodotto che incorpora o utilizza i prodotti Groupdocs."
     },
     "expl4": {
       "other": "Consente l'utilizzo del prodotto all'interno di una distribuzione dell'app all'interno di un'azienda (Impresa)."
@@ -190,22 +193,31 @@
       "other": "Se produci software con un'API destinata ad altri sviluppatori, allora ciò si applica a te."
     },
     "expl9": {
-      "other": "Perpetua: La licenza per utilizzare il prodotto non scade. Pagamento in base all'uso: Pagare le royalty per l'utilizzo del prodotto ogni mese."
+      "other": "Perpetua: La licenza per utilizzare il prodotto non scade."
+    },
+    "expl9-2": {
+      "other": "Pagamento in base all'uso: Pagare le royalty per l'utilizzo del prodotto ogni mese."
     },
     "expl10": {
-      "other": "Un acquisto include un abbonamento che ti dà diritto a un anno di aggiornamenti del prodotto. Quando è trascorso l'anno, sei comunque autorizzato a utilizzare il prodotto, quindi le tue applicazioni esistenti che utilizzano Aspose continueranno a funzionare. Tuttavia, per scaricare e utilizzare ulteriori aggiornamenti del prodotto, dovrai prima rinnovare il tuo abbonamento. Nota: Questo non si applica alle licenze Metered, che sono sempre aggiornate."
+      "other": "Un acquisto include un abbonamento che ti dà diritto a un anno di aggiornamenti del prodotto. Quando è trascorso l'anno, sei comunque autorizzato a utilizzare il prodotto, quindi le tue applicazioni esistenti che utilizzano Groupdocs continueranno a funzionare. Tuttavia, per scaricare e utilizzare ulteriori aggiornamenti del prodotto, dovrai prima rinnovare il tuo abbonamento. Nota: Questo non si applica alle licenze Metered, che sono sempre aggiornate."
     },
     "expl11": {
-      "other": "Non ci sono limiti al numero di applicazioni che puoi creare con i prodotti Aspose."
+      "other": "Non ci sono limiti al numero di applicazioni che puoi creare con i prodotti Groupdocs."
     },
     "expl12": {
-      "other": "Acquista più licenze Aspose e ricevi uno sconto. Le licenze Metered contengono sconti integrati, in quanto l'aggiunta di sviluppatori aggiuntivi non comporta un aumento dei costi."
+      "other": "Acquista più licenze Groupdocs e ricevi uno sconto. Le licenze Metered contengono sconti integrati, in quanto l'aggiunta di sviluppatori aggiuntivi non comporta un aumento dei costi."
     },
     "expl13": {
       "other": "Ricevi supporto tecnico gratuito prima dell'acquisto o anche se la tua sottoscrizione di manutenzione è scaduta. Per il supporto prioritario, consulta le opzioni di supporto a pagamento."
     },
     "expl14": {
       "other": "Questo non si applica alle licenze Metered, che sono sempre aggiornate."
+    },
+    "expl15": {
+        "other": "Un acquisto include un abbonamento che ti dà diritto a un anno di aggiornamenti del prodotto. Quando è passato l'anno, sei ancora autorizzato a utilizzare per il prodotto in modo che le applicazioni esistenti che utilizzano Groupdocs continueranno a funzionare ma a scaricare e utilizzare Ulteriori aggiornamenti al prodotto che devi per la prima volta per rinnovare l'abbonamento."
+    },
+    "expl15Note": {
+     "other": "Nota: le licenze misurate sono sempre aggiornate."
     },
     "total-credits": {
       "other": "Crediti totali"
@@ -299,6 +311,9 @@
     },
     "credit":{
       "other": "Credito"
+    },
+    "learn-more": {
+      "other": "Saperne di più"
     }
   }
 ]

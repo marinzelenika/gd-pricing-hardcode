@@ -17,7 +17,7 @@ Description: "A Metered OEM license allows an unlimited number of developers fro
 Process as many files as you require. After one month, we will calculate the total credits and bill you according to the below plan. One credit is counted each time you perform an open or a save operation on a document.  
 &nbsp;  
 
-More information about our Metered OEM license can be found [here](https://purchase.groupdocs.com/policies/license-types/#MeteredOEM). Read the [Metered License FAQ](https://purchase.groupdocs.com/faqs/licensing/metered/) for answers to your questions and scenarios.  
+More information about our Metered OEM license can be found [here](https://purchase.groupdocs.com/policies/license-types/#metered-oem-license). Read the [Metered License FAQ](https://purchase.groupdocs.com/faqs/licensing/metered/) for answers to your questions and scenarios.  
 
 {{< row-end >}}
 &nbsp;  

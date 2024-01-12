@@ -190,13 +190,16 @@
       "other": "Annuel"
     },
     "expl1": {
-      "other": "Développeur : un développeur peut être un développeur de logiciels, un administrateur de systèmes, un auteur de rapports ou toute autre personne qui utilise le produit. Chaque développeur travaillant avec les produits Aspose doit être sous licence."
+      "other": "Développeur : un développeur peut être un développeur de logiciels, un administrateur de systèmes, un auteur de rapports ou toute autre personne qui utilise le produit. Chaque développeur travaillant avec les produits Groupdocs doit être sous licence."
     },
     "expl2": {
-      "other": "Emplacement : un emplacement est l'emplacement physique où un travail dérivé est utilisé ; chaque adresse distincte ou immeuble de bureaux, à l'intérieur ou à l'extérieur d'une organisation. Travail dérivé : un programme logiciel, un site, un générateur de rapports ou toute autre solution, travail ou produit qui intègre ou utilise les produits Aspose."
+      "other": "Emplacement: Un emplacement est l'emplacement physique où un travail dérivé est utilisé; Chaque adresse ou immeuble de bureaux distinct, à l'intérieur ou à l'extérieur d'une organisation."
+    },
+    "expl2-2": {
+      "other": "Travail dérivé : un logiciel, un site, un générateur de rapports ou toute autre solution, travail ou produit qui intègre ou utilise des produits Groupdocs."
     },
     "expl3": {
-      "other": "Permet la distribution de travaux dérivés sur un nombre illimité de serveurs physiques ou virtuels dans un nombre illimité d'emplacements physiques (adresse distincte ou immeuble de bureaux). Travail dérivé : un programme logiciel, un site, un générateur de rapports ou toute autre solution, travail ou produit qui intègre ou utilise les produits Aspose."
+      "other": "Permet la distribution de travaux dérivés sur un nombre illimité de serveurs physiques ou virtuels dans un nombre illimité d'emplacements physiques (adresse distincte ou immeuble de bureaux). Travail dérivé : un programme logiciel, un site, un générateur de rapports ou toute autre solution, travail ou produit qui intègre ou utilise les produits Groupdocs."
     },
     "expl4": {
       "other": "Permet l'utilisation du produit dans un déploiement d'application au sein d'une entreprise (société)."
@@ -214,16 +217,19 @@
       "other": "Si vous créez un logiciel avec une API destinée à être utilisée par d'autres développeurs, cela s'applique à vous."
     },
     "expl9": {
-      "other": "Perpétuel : La licence d'utilisation du produit n'expire pas. Pay-per-use : Payez des redevances pour l'utilisation du produit chaque mois."
+      "other": "Perpétuel : La licence d'utilisation du produit n'expire pas."
+    },
+    "expl9-2": {
+      "other": "Payer à l'utilisation : Payez des redevances pour l'utilisation du produit chaque mois."
     },
     "expl10": {
-      "other": "Un achat comprend un abonnement qui vous donne droit à un an de mises à jour du produit. Une fois l'année écoulée, vous êtes toujours autorisé à utiliser le produit, de sorte que vos applications existantes qui utilisent Aspose continueront de fonctionner, mais pour télécharger et utiliser de nouvelles mises à jour du produit, vous devez d'abord renouveler votre abonnement. Remarque : Cela ne s'applique pas aux licences Metered, qui sont toujours à jour."
+      "other": "Un achat comprend un abonnement qui vous donne droit à un an de mises à jour du produit. Une fois l'année écoulée, vous êtes toujours autorisé à utiliser le produit, de sorte que vos applications existantes qui utilisent Groupdocs continueront de fonctionner, mais pour télécharger et utiliser de nouvelles mises à jour du produit, vous devez d'abord renouveler votre abonnement. Remarque : Cela ne s'applique pas aux licences Metered, qui sont toujours à jour."
     },
     "expl11": {
-      "other": "Il n'y a pas de limites au nombre d'applications que vous pouvez créer avec les produits Aspose."
+      "other": "Il n'y a pas de limites au nombre d'applications que vous pouvez créer avec les produits Groupdocs."
     },
     "expl12": {
-      "other": "Il n'y a pas de limites au nombre d'applications que vous pouvez créer avec les produits Aspose."
+      "other": "Il n'y a pas de limites au nombre d'applications que vous pouvez créer avec les produits Groupdocs."
     },
     "expl13": {
       "other": "Achetez plusieurs licences et bénéficiez d'une réduction. Les licences Metered contiennent des remises intégrées, car l'ajout de développeurs supplémentaires n'augmente pas les coûts."
@@ -232,7 +238,10 @@
       "other": "Bénéficiez d'une assistance technique gratuite avant l'achat ou même si votre abonnement de maintenance a expiré. Pour une assistance prioritaire, consultez les options de support payant."
     },
     "expl15": {
-      "other": "Cela ne s'applique pas aux licences Metered, qui sont toujours à jour."
+      "other": "Un achat comprend un abonnement qui vous donne droit à un an de mises à jour du produit. Une fois l'année écoulée, vous disposez toujours d'une licence pour utiliser le produit, de sorte que vos applications existantes qui utilisent Groupdocs continueront à fonctionner, mais pour télécharger et utiliser d'autres mises à jour du produit, vous devez d'abord renouveler votre abonnement."
+    },
+    "expl15Note": {
+     "other": "Remarque: les licences mesurées sont toujours à jour."
     },
     "total-credits": {
       "other": "Crédits totaux"

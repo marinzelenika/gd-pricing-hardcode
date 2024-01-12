@@ -41,9 +41,7 @@
         <span
           >{{ i18n "developers-licensed" . }}
           <div class="help-tip" style="display: inline-block">
-            <p class="help-expl">
-              {{ i18n `expl1` . }}
-            </p>
+            <p class="help-expl">{{ i18n `expl1` . }}</p>
           </div></span
         >
       </th>
@@ -52,9 +50,7 @@
       <th class="comp-table__tableData comp-table__rowheader" scope="row">
         {{ i18n "developers-licensed" . }}
         <div class="help-tip" style="display: inline-block">
-          <p class="help-expl">
-            {{ i18n `expl1` . }}
-          </p>
+          <p class="help-expl">{{ i18n `expl1` . }}</p>
         </div>
       </th>
       <td class="comp-table__tableData comp-table__tableDataCell">1</td>
@@ -67,7 +63,7 @@
           >{{ i18n "derived-work" . }}
           <div class="help-tip" style="display: inline-block">
             <p class="help-expl">
-              {{ i18n `expl2` . }}
+              {{ i18n `expl2` . }}<br />{{ i18n `expl2-2` . }}
             </p>
           </div></span
         >
@@ -78,7 +74,7 @@
         {{ i18n "derived-work" . }}
         <div class="help-tip" style="display: inline-block">
           <p class="help-expl">
-            {{ i18n `expl2` . }}
+            {{ i18n `expl2` . }}<br />{{ i18n `expl2-2` . }}
           </p>
         </div>
       </th>
@@ -112,9 +108,7 @@
         <span
           >{{ i18n "use-with-web-sites" . }}
           <div class="help-tip" style="display: inline-block">
-            <p class="help-expl">
-              {{ i18n `expl5` . }}
-            </p>
+            <p class="help-expl">{{ i18n `expl5` . }}</p>
           </div></span
         >
       </th>
@@ -123,9 +117,7 @@
       <th class="comp-table__tableData comp-table__rowheader" scope="row">
         {{ i18n "use-with-web-sites" . }}
         <div class="help-tip" style="display: inline-block">
-          <p class="help-expl">
-            {{ i18n `expl5` . }}
-          </p>
+          <p class="help-expl">{{ i18n `expl5` . }}</p>
         </div>
       </th>
       <td class="comp-table__tableData comp-table__tableDataCell">
@@ -150,9 +142,7 @@
         <span
           >{{ i18n "external-distribution" . }}
           <div class="help-tip" style="display: inline-block">
-            <p class="help-expl">
-              {{ i18n `expl6` . }}
-            </p>
+            <p class="help-expl">{{ i18n `expl6` . }}</p>
           </div>
         </span>
       </th>
@@ -161,9 +151,7 @@
       <th class="comp-table__tableData comp-table__rowheader" scope="row">
         {{ i18n "external-distribution" . }}
         <div class="help-tip" style="display: inline-block">
-          <p class="help-expl">
-            {{ i18n `expl6` . }}
-          </p>
+          <p class="help-expl">{{ i18n `expl6` . }}</p>
         </div>
       </th>
       <td class="comp-table__tableData comp-table__tableDataCell">
@@ -221,7 +209,9 @@
         <span
           >{{ i18n "license-type" . }}
           <div class="help-tip" style="display: inline-block">
-            <p class="help-expl">{{ i18n `expl9` . }}</p>
+            <p class="help-expl">
+              {{ i18n `expl9` . }}<br />{{ i18n `expl9-2` . }}
+            </p>
           </div>
         </span>
       </th>
@@ -230,7 +220,9 @@
       <th class="comp-table__tableData comp-table__rowheader" scope="row">
         {{ i18n "license-type" . }}
         <div class="help-tip" style="display: inline-block">
-          <p class="help-expl">{{ i18n `expl9` . }}</p>
+          <p class="help-expl">
+            {{ i18n `expl9` . }}<br />{{ i18n `expl9-2` . }}
+          </p>
         </div>
       </th>
       <td colspan="3" class="comp-table__tableData comp-table__tableDataCell">
@@ -259,11 +251,17 @@
       <td class="comp-table__tableData comp-table__tableDataCell">50</td>
     </tr>
     <tr class="comp-table__columnGroup comp-table__tableRow">
-      <th scope="colgroup" class="comp-table__tableData" colspan="3">
+      <th scope="colgroup" class="comp-table__tableData" colspan="4">
         <span
           >{{ i18n "updates-and-hotfixes" .}}
           <div class="help-tip" style="display: inline-block">
-            <p class="help-expl">{{ i18n `expl15` . }}</p>
+            <p class="help-expl">
+              {{ i18n `expl15` . }}<a
+                href="https://purchase.groupdocs.com/policies/subscriptions/"
+                target="_blank"
+                >{{ i18n "learn-more" . }}</a
+              ><br />{{ i18n `expl15Note` . }}
+            </p>
           </div>
         </span>
       </th>
@@ -272,7 +270,13 @@
       <th class="comp-table__tableData comp-table__rowheader" scope="row">
         {{ i18n "updates-and-hotfixes" .}}
         <div class="help-tip" style="display: inline-block">
-          <p class="help-expl">{{ i18n `expl15` . }}</p>
+          <p class="help-expl">
+            {{ i18n `expl15` . }}<a
+              href="https://purchase.groupdocs.com/policies/subscriptions/"
+              target="_blank"
+              >{{ i18n "learn-more" . }}</a
+            ><br />{{ i18n `expl15Note` . }}
+          </p>
         </div>
       </th>
       <td class="comp-table__tableData comp-table__tableDataCell">
@@ -366,8 +370,7 @@
           <div class="help-tip" style="display: inline-block">
             <p class="help-expl">{{ i18n `expl14` . }}</p>
           </div>
-          &gt;</span
-        >
+        </span>
       </th>
     </tr>
     <tr class="comp-table__tableRow comp-table__tableBodyRow">

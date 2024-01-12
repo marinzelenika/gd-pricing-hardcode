@@ -166,13 +166,16 @@
       "other": "Anual"
     },
     "expl1": {
-      "other": "Desarrollador: un desarrollador puede ser un desarrollador de software, un administrador de sistemas, un autor de informes o cualquier otra persona que use el producto. Cada desarrollador que trabaje con los productos de Aspose necesita tener una licencia."
+      "other": "Desarrollador: un desarrollador puede ser un desarrollador de software, un administrador de sistemas, un autor de informes o cualquier otra persona que use el producto. Cada desarrollador que trabaje con los productos de Groupdocs necesita tener una licencia."
     },
     "expl2": {
-      "other": "Ubicación: una ubicación es el lugar físico donde se utiliza un trabajo derivado; cada dirección distintiva o edificio de oficinas, dentro o fuera de una organización. Trabajo derivado: un programa de software, un sitio, un generador de informes o cualquier otra solución, trabajo o producto que incorpore o utilice los productos de Aspose."
+      "other": "Ubicación: una ubicación es la ubicación física donde se usa un trabajo derivado; cada dirección o edificio de oficinas distinto, dentro o fuera de una organización."
+    },
+    "expl2-2": {
+      "other": "Trabajo derivado: un programa de software, sitio, generador de informes o cualquier otra solución, trabajo o producto que incorpore o utilice productos Groupdocs."
     },
     "expl3": {
-      "other": "Permite la distribución de trabajos derivados en un número ilimitado de servidores físicos o virtuales en un número ilimitado de ubicaciones físicas (dirección distintiva o edificio de oficinas). Trabajo derivado: un programa de software, un sitio, un generador de informes o cualquier otra solución, trabajo o producto que incorpore o utilice los productos de Aspose."
+      "other": "Permite la distribución de trabajos derivados en un número ilimitado de servidores físicos o virtuales en un número ilimitado de ubicaciones físicas (dirección distintiva o edificio de oficinas). Trabajo derivado: un programa de software, un sitio, un generador de informes o cualquier otra solución, trabajo o producto que incorpore o utilice los productos de Groupdocs."
     },
     "expl4": {
       "other": "Permite el uso del producto dentro de una implementación de aplicación dentro de una empresa (compañía)"
@@ -190,16 +193,19 @@
       "other": "Si produces software con una API para que otros desarrolladores lo utilicen, esto se aplica a ti."
     },
     "expl9": {
-      "other": "Perpetuo: la licencia para usar el producto no vence. Pago por uso: paga regalías por el uso del producto cada mes."
+      "other": "Perpetuo: la licencia para usar el producto no vence."
+    },
+    "expl9-2": {
+      "other": "Pago por uso: paga regalías por el uso del producto cada mes."
     },
     "expl10": {
-      "other": "Una compra incluye una suscripción que te otorga un año de actualizaciones del producto. Cuando haya pasado el año, todavía tienes licencia para usar el producto, por lo que tus aplicaciones existentes que usen Aspose seguirán funcionando, pero para descargar y utilizar más actualizaciones del producto, primero debes renovar tu suscripción. Nota: esto no se aplica a las licencias medibles que siempre están actualizadas."
+      "other": "Una compra incluye una suscripción que te otorga un año de actualizaciones del producto. Cuando haya pasado el año, todavía tienes licencia para usar el producto, por lo que tus aplicaciones existentes que usen Groupdocs seguirán funcionando, pero para descargar y utilizar más actualizaciones del producto, primero debes renovar tu suscripción. Nota: esto no se aplica a las licencias medibles que siempre están actualizadas."
     },
     "expl11": {
-      "other": "No hay límites en la cantidad de aplicaciones que puedes crear con los productos de Aspose."
+      "other": "No hay límites en la cantidad de aplicaciones que puedes crear con los productos de Groupdocs."
     },
     "expl12": {
-      "other": "No hay límites en la cantidad de aplicaciones que puedes crear con los productos de Aspose."
+      "other": "No hay límites en la cantidad de aplicaciones que puedes crear con los productos de Groupdocs."
     },
     "expl13": {
       "other": "Compra múltiples licencias y recibe un descuento. Las licencias medibles contienen descuentos incorporados, ya que agregar desarrolladores adicionales no aumenta los costos."
@@ -208,7 +214,10 @@
       "other": "Recibe soporte técnico gratuito antes de la compra o incluso si tu suscripción de mantenimiento ha vencido. Para obtener soporte prioritario, consulta las opciones de soporte pagado."
     },
     "expl15": {
-      "other": "Esto no se aplica a las licencias medibles que siempre están actualizadas."
+      "other": "Una compra incluye una suscripción que le da derecho a un año de actualizaciones de productos. Cuando ha pasado el año, todavía tiene licencia para usar en el producto para que sus aplicaciones existentes que usen Conholder continúen funcionando pero para descargar y usar Más actualizaciones del producto primero debe renovar su suscripción"
+    },
+    "expl15Note": {
+     "other": "Nota: las licencias medidas siempre están actualizadas"
     },
     "expl16": {
       "other": "Implementaciones comerciales: cualquier distribución de software de usuario final por su parte a usuarios finales de terceros, ya sea directamente o a través de canales de distribución. Cada cliente, ya sea un individuo o una sola entidad, de su software de usuario final cuenta como una (1) implementación comercial. ."
