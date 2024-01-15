@@ -1,0 +1,4 @@
+---
+Description: "Descubre GroupDocs.com, el innovador líder en APIs de automatización de documentos. Nuestra suite integral está diseñada para revolucionar la forma en que interactúas con documentos en aplicaciones .NET y Java. Desde la visualización sin problemas hasta la edición avanzada, nuestras APIs te permiten convertir, anotar, comparar, firmar, ensamblar y editar documentos con una facilidad incomparable. Sumérgete en nuestras funciones avanzadas como marcas de agua, tachado, clasificación, división y traducción, todas creadas para optimizar tu proceso de gestión de documentos. Experimenta el futuro de la automatización de documentos con GroupDocs, donde la eficiencia se encuentra con la precisión."
+Name: "GroupDocs.com"
+---

@@ -2,6 +2,7 @@ baseURL = 'https://purchase.groupdocs.com/pricing/'
 languageCode = 'en-us'
 title = 'GroupDocs pricing information'
 theme = 'mytheme'
+enableGitInfo = true
 
 [module]
     [[module.mounts]]
