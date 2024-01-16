@@ -20,7 +20,7 @@ const tooltipList = [...tooltipTriggerList].map(
 var cardElements = document.getElementsByClassName("card");
 var limit = 130;
 
-if (window.innerWidth < 400) {
+/* if (window.innerWidth < 400) {
   for (var i = 0; i < cardElements.length; i++) {
     var titleElement = cardElements[i].getElementsByClassName("card-title")[0];
     var textElement = cardElements[i].getElementsByClassName("card-text")[0];
@@ -40,7 +40,7 @@ if (window.innerWidth < 400) {
       textElement.textContent = truncatedTextContent;
     }
   }
-}
+} */
 
 document.addEventListener("DOMContentLoaded", function () {
   var supportCheckboxes = document.querySelectorAll("[id^='checkSupport_']");

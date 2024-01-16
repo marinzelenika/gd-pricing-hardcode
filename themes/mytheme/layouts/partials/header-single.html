@@ -1,6 +1,26 @@
 <div class="text-center single-header">
-    <h1 class="mb-0"><strong>{{ .Params.Name }}</strong></h1>
-    <a href="{{ .Params.ProductPageUrl }}" style="margin-top:.6em; color: white; padding: 5px 10px; text-decoration: underline !important; display: inline-block;">
-        {{ i18n "visit-product-page" . }}
-    </a>
-  </div>
+    <div class="container">
+        <div class="row align-items-center"> <!-- Add align-items-center class -->
+            <div class="col-sm-8 text-center" style="flex-direction:column; display: flex; align-items: center;">
+                <h1 class="mb-0"><strong>{{ .Params.Name }}</strong></h1>
+                <div class="row justify-content-center mt-3 mb-3"> <!-- Add align-items-center and justify-content-center classes -->
+                    <ul class="list-group list-group-horizontal">
+                        {{ $docsUrl := strings.Replace .Params.ProductPageUrl "products" "docs" }}
+                        <li class="list-group-item mr-2"><a href="{{ $docsUrl }}" target="_blank">{{ ":book:" | emojify }} Docs</a></li>
+                        <li class="list-group-item"><a href="{{ .Params.ProductPageUrl }}" target="_blank">{{ ":link:" | emojify }} Product Page</a></li>
+                    </ul>
+                </div>
+                {{/*  <a href="{{ .Params.ProductPageUrl }}" style="margin-top:.6em; color: white; padding: 5px 10px; text-decoration: underline !important;">
+                    {{ i18n "visit-product-page" . }}
+                </a>  */}}
+            </div>
+            <div class="col-sm-4">
+                {{ $imagePath := print "images/" .Params.Id ".png" }}
+                {{ $image := resources.Get $imagePath }}
+                {{ with $image }}
+                <img src="{{ $image.RelPermalink }}" alt="{{ .Params.Name }}" style="width: 40%;" class="img-fluid logo-img">
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
