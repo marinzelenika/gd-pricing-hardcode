@@ -772,7 +772,8 @@ z-index: 1 !important;
         height: auto; // let the height adjust automatically
         overflow: auto !important;
         box-sizing: border-box; // include padding and border in element's total width
-        left: 0; // align to the left side of the parent
+        left: -20px !important; // adjust the value to move it more left
+        overflow-x: hidden; // prevent horizontal scrolling
     }
 }
 @media (min-width: 500px) {
