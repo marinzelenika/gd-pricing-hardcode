@@ -788,4 +788,23 @@ z-index: 1 !important;
     background: rgb(255, 255, 255);
     background: linear-gradient(90deg,#439cda 0,#286baf 100%) center center/cover no-repeat;
     color: white;
+
+    @media (max-width: 767px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+}
+@media (min-width: 768px) {
+    .header-single-title {
+        margin-right: 3em !important;
+    }
+    .logo-img {
+        margin-left: 5em !important;
+    }
+    .single-container {
+        padding: 0 9em;
+    }
 }
